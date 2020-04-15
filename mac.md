@@ -52,7 +52,7 @@ Use with `cputhrottle {pid} 70 &`
 https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0
 
 
-**Setting changes**
+** Mac Setting changes**
 
 1. Reverse the Scroll settings for the trackpad
 2. Show the percentage in the battery bar

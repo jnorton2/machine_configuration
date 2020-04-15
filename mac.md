@@ -55,9 +55,9 @@ https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0
 ## OSX Setting Changes
 
 1. Reverse the Scroll settings for the trackpad
-  1. Preferences -> Trackpad -> Uncheck Scroll direction: Natural
+⋅⋅1. Preferences -> Trackpad -> Uncheck Scroll direction: Natural
 2. Show the percentage in the battery bar
-  1. Click the battery icon -> Show Percentage
+⋅⋅1. Click the battery icon -> Show Percentage
 3. Change the touchbar to include Lockscreen, Brightness and Sound
-  1. Perferences -> Keyboard -> Customize Control Bar
+⋅⋅1. Perferences -> Keyboard -> Customize Control Bar
 

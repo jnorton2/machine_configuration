@@ -47,9 +47,20 @@ https://www.dropbox.com/s/mualootufpo759q/killmouseaccel?dl=0
 
 
 **CPU throttle for Controlling Dropbox**
-Use with `cputhrottle {pid} 70 &`
+Use with `cputhrottle {pid} {percentage_to_throttle} &`  
 
-https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0
+https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0  
+
+   pid: process ID. Alternatively you could use `$(pgrep -f ProgramYouWishToGrepFor)` to find the process ID dynamically.  
+
+   percentage_to_throttle: An integer to state what percentatge to throttle by.  
+
+   Example:  
+
+    Throttle Process 2010 to 20% `cputhrottle 2010 20 &`  
+
+    Throttle Dropbox to 70%: `cputhrottle $(pgrep -f Dropbox) 70 &`  
+
 
 
 ## OSX Setting Changes

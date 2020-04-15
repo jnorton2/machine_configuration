@@ -57,9 +57,9 @@ https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0
 
    Example:  
 
-    Throttle Process 2010 to 20% `cputhrottle 2010 20 &`  
+   Throttle Process 2010 to 20% `cputhrottle 2010 20 &`  
 
-    Throttle Dropbox to 70%: `cputhrottle $(pgrep -f Dropbox) 70 &`  
+   Throttle Dropbox to 70%: `cputhrottle $(pgrep -f Dropbox) 70 &`  
 
 
 

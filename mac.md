@@ -38,7 +38,7 @@ This is the configuration of programs and settings I use on a Mac machine for wo
 | Pulse Secure                                            | VPN                           | https://www.pulsesecure.net/                                   | Paid          |
 
 
-## Basic Setting Changes and Scripts
+## Scripts
 
 **Kill Mouse Acceleration**
 Use with `killmouseaccel mouse` to remove the acceleration of an attached mouse device.
@@ -52,9 +52,12 @@ Use with `cputhrottle {pid} 70 &`
 https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0
 
 
-** Mac Setting changes**
+## OSX Setting Changes
 
 1. Reverse the Scroll settings for the trackpad
+  * Preferences -> Trackpad -> Uncheck Scroll direction: Natural
 2. Show the percentage in the battery bar
-3. Change the touchbar to Lockscreen, Brightness and Sound
+  * Click the battery icon -> Show Percentage
+3. Change the touchbar to include Lockscreen, Brightness and Sound
+  * Perferences -> Keyboard -> Customize Control Bar
 

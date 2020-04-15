@@ -76,4 +76,8 @@ https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0
 3. Change the touchbar to include Lockscreen, Brightness and Sound
 
    Perferences -> Keyboard -> Customize Control Bar
+   
+   
+## Other Settings. 
 
+Remove Hardware Media Key handling from Chrome: chrome://flags/#hardware-media-key-handling

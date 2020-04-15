@@ -1,39 +1,42 @@
 # Mac Setup
 This is the configuration of programs and settings I use on a Mac machine for work and productivity. 
 
-## Programs
+## Productivity
 | **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |
 | ------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- | ------------- |
-| *Productivity*                                          |                               |                                                                |               |
 | FlyCut                                                  | Clipboard manager             | https://github.com/TermiT/Flycut                               | Free          |
 | Spectacle                                               | Windowing management          | https://www.spectacleapp.com/                                  | Free          |
 | Alfred                                                  | Spotlight Replacement         | https://www.alfredapp.com/                                     | Free          |
 | Homebrew                                                | Package installer             | https://brew.sh/                                               | Free          |
-|                                                         |                               |                                                                |               |
-| *Essentials*                                            |                               |                                                                |               |
+
+## Essentials
+| **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |
+| ------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- | ------------- |
 | Chrome                                                  | Web Browser                   | https://www.google.com/chrome/                                 | Free          |
 | Dropbox                                                 | Cloud File storage            | https://www.dropbox.com/install                                | Paid          |
 | Spotify                                                 | Music Stream                  | https://www.spotify.com/us/download                            | Paid          |
-|                                                         |                               |                                                                |               |
-|                                                         |                               |                                                                |               |
-| *Development*                                           |                               |                                                                |               |
+
+
+## Development
+| **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |
+| ------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- | ------------- |
 | Jetbrains Suite <br><br>PyCharm<br>IntelliJ<br>Webstorm | IDEs                          | https://www.jetbrains.com/toolbox-app/                         | Paid          |
 | Illuminated Cloud IntelliJ Plugin                       | Salesforce Development Plugin | http://www.illuminatedcloud.com/                               | Paid          |
 | Source Tree                                             | Git GUI                       | https://www.sourcetreeapp.com/                                 | Free          |
 | Sequel Pro                                              | Database GUI                  | https://www.sequelpro.com/                                     | Free          |
 | Sublime Text                                            | Text Editor                   | https://www.sublimetext.com/3                                  | Free          |
-|                                                         |                               |                                                                |               |
-|                                                         |                               |                                                                |               |
-| *Communication*                                         |                               |                                                                |               |
+
+## Communication
+| **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |
+| ------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- | ------------- |
 | Slack                                                   | Messaging                     | https://slack.com/downloads                                    | Paid          |
 | Teams                                                   | Thermofisher Messaging        | https://products.office.com/en-us/microsoft-teams/download-app | Free          |
-|                                                         |                               |                                                                |               |
-| *Network*                                               |                               |                                                                |               |
+
+## Network
+| **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |
+| ------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- | ------------- |
 | Pulse Secure                                            | VPN                           | https://www.pulsesecure.net/                                   | Paid          |
-|                                                         |                               |                                                                |               |
-|                                                         |                               |                                                                |               |
-|                                                         |                               |                                                                |               |
-|                                                         |                               |                                                                |               |
+
 
 ## Basic Setting Changes and Scripts
 
@@ -54,5 +57,4 @@ https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0
 1. Reverse the Scroll settings for the trackpad
 2. Show the percentage in the battery bar
 3. Change the touchbar to Lockscreen, Brightness and Sound
-4. 
 

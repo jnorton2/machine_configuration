@@ -78,6 +78,6 @@ https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0
    Perferences -> Keyboard -> Customize Control Bar
    
    
-## Other Settings. 
+## Other Settings   
 
 Remove Hardware Media Key handling from Chrome: chrome://flags/#hardware-media-key-handling

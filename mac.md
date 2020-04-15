@@ -40,13 +40,15 @@ This is the configuration of programs and settings I use on a Mac machine for wo
 
 ## Scripts
 
-**Kill Mouse Acceleration**
+**Kill Mouse Acceleration**  
+
 Use with `killmouseaccel mouse` to remove the acceleration of an attached mouse device.
 
 https://www.dropbox.com/s/mualootufpo759q/killmouseaccel?dl=0
 
 
-**CPU throttle for Controlling Dropbox**
+**CPU throttle for Controlling Dropbox**  
+
 Use with `cputhrottle {pid} {percentage_to_throttle} &`  
 
 https://www.dropbox.com/s/llusdnyp23q2dhq/cputhrottle?dl=0  

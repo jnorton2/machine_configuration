@@ -8,6 +8,7 @@ This is the configuration of programs and settings I use on a Mac machine for wo
 | Spectacle                                               | Windowing management          | https://www.spectacleapp.com/                                  | Free          |
 | Alfred                                                  | Spotlight Replacement         | https://www.alfredapp.com/                                     | Free          |
 | Homebrew                                                | Package installer             | https://brew.sh/                                               | Free          |
+| Steel Series Exact Mouse | Mouse Acceleration Killer | https://downloads.steelseriescdn.com/drivers/tools/steelseries-exactmouse-tool.dmg | Free |
 
 ## Essentials
 | **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |
@@ -39,13 +40,6 @@ This is the configuration of programs and settings I use on a Mac machine for wo
 
 
 ## Scripts
-
-**Kill Mouse Acceleration**  
-
-Use with `killmouseaccel mouse` to remove the acceleration of an attached mouse device.
-
-https://www.dropbox.com/s/mualootufpo759q/killmouseaccel?dl=0
-
 
 **CPU throttle for Controlling Dropbox**  
 

@@ -25,6 +25,7 @@ This is the configuration of programs and settings I use on a Mac machine for wo
 | Illuminated Cloud IntelliJ Plugin                       | Salesforce Development Plugin | http://www.illuminatedcloud.com/                               | Paid          |
 | Source Tree                                             | Git GUI                       | https://www.sourcetreeapp.com/                                 | Free          |
 | Sequel Pro                                              | Database GUI                  | https://www.sequelpro.com/                                     | Free          |
+| MYSQL Workbench                                         | Database GUI                   | https://www.mysql.com/products/workbench                      | Free          |
 | Sublime Text                                            | Text Editor                   | https://www.sublimetext.com/3                                  | Free          |
 
 ## Communication

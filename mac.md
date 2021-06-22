@@ -24,7 +24,7 @@ This is the configuration of programs and settings I use on a Mac machine for wo
 | Jetbrains Suite <br><br>PyCharm<br>IntelliJ<br>Webstorm | IDEs                          | https://www.jetbrains.com/toolbox-app/                         | Paid          |
 | Illuminated Cloud IntelliJ Plugin                       | Salesforce Development Plugin | http://www.illuminatedcloud.com/                               | Paid          |
 | Source Tree                                             | Git GUI                       | https://www.sourcetreeapp.com/                                 | Free          |
-| Sequel Pro                                              | Database GUI                  | https://www.sequelpro.com/                                     | Free          |
+| Sequel Ace                                              | Database GUI                  | https://github.com/Sequel-Ace/Sequel-Ace                                     | Free          |
 | MYSQL Workbench                                         | Database GUI                   | https://www.mysql.com/products/workbench                      | Free          |
 | Sublime Text                                            | Text Editor                   | https://www.sublimetext.com/3                                  | Free          |
 

@@ -27,6 +27,8 @@ This is the configuration of programs and settings I use on a Mac machine for wo
 | Sequel Ace                                              | Database GUI                  | https://github.com/Sequel-Ace/Sequel-Ace                                     | Free          |
 | MYSQL Workbench                                         | Database GUI                   | https://www.mysql.com/products/workbench                      | Free          |
 | Sublime Text                                            | Text Editor                   | https://www.sublimetext.com/3                                  | Free          |
+| Offset Explorer 2                                       | Kafka GUI                   | https://www.kafkatool.com/download.html                                  | Free          |
+
 
 ## Communication
 | **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |

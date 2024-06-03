@@ -5,10 +5,10 @@ This is the configuration of programs and settings I use on a Mac machine for wo
 | **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |
 | ------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------- | ------------- |
 | FlyCut                                                  | Clipboard manager             | https://github.com/TermiT/Flycut                               | Free          |
-| Spectacle                                               | Windowing management          | https://www.spectacleapp.com/                                  | Free          |
+| Rectangle (Was spectacle)                               | Windowing management          | https://rectangleapp.com/                                      | Free          |
 | Alfred                                                  | Spotlight Replacement         | https://www.alfredapp.com/                                     | Free          |
 | Homebrew                                                | Package installer             | https://brew.sh/                                               | Free          |
-| Steel Series Exact Mouse | Mouse Acceleration Killer | https://downloads.steelseriescdn.com/drivers/tools/steelseries-exactmouse-tool.dmg | Free |
+| SteerMouse                                              | Mouse Acceleration Killer     | https://formulae.brew.sh/cask/steermouse                       | Free          |
 
 ## Essentials
 | **Program**                                             | **Description**               | **Download Link**                                              | **Paid/Free** |
